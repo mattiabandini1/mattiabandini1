@@ -58,20 +58,20 @@ An innovative platform designed to **revolutionize the way students study**. Sna
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattiabandini1&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mattiabandini1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="GitHub Stats" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiabandini1&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=mattiabandini1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiabandini1&layout=compact&theme=blue-green&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattiabandini1&theme=tokyonight" alt="Contribution Graph"/>
 </p>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiabandini1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_repository=true&card_width=445" alt="Top Languages" height="200"/>
+</p>
 
 ---
 
