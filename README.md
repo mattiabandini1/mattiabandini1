@@ -56,9 +56,7 @@ An innovative platform designed to **revolutionize the way students study**. Sna
 ---
 
 ## 📊 GitHub Statistics
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=mattiabandini1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
--->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mattiabandini1&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
 </p>
