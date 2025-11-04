@@ -18,7 +18,6 @@
 
 I'm a **second-year** student of **Computer Engineering & Science** at **Alma Mater Studiorum - University of Bologna**, passionate about technology and innovation. I'm from Lugo, in Emilia Romagna, and I love turning ideas into concrete digital solutions.
 
-
 ```javascript
 const mattia = {
     location: "Lugo, Emilia Romagna 🇮🇹",
