@@ -44,7 +44,7 @@ An innovative platform designed to **revolutionize the way students study**. Sna
 ## 🛠️ Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,c,java,python,SQL)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,c,java,python,bash,SQL)](https://skillicons.dev)
 
 ### Web Development
 [![Web Development](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
