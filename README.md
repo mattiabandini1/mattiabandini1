@@ -30,14 +30,32 @@ const mattia = {
 
 ## 💼 Featured Project
 
-### 🎓 [SnapStudy](https://www.snapstudy.online)
-An innovative platform designed to **revolutionize the way students study**. SnapStudy offers:
-- 🎤 **Audio transcription** of lectures and voice notes
-- 📝 **Automatic quiz generation** personalized for your needs
-- 🃏 **Smart flashcards** for effective review
-- 📊 **Automatic summaries** to optimize study time
+### 🔍 [FileInspector](https://github.com/mattiabandini1/FileInspector)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
-> ⚠️ *Currently under maintenance* - I'm working on fixing some bugs to improve the user experience!
+A powerful **Bash scripting tool** designed to simplify Linux file permissions analysis. Born as an exercise for my Operating Systems exam to master advanced Bash scripting, FileInspector evolved into a practical utility that provides:
+
+- 📋 **Interactive permission table** with Read/Write/Execute status checks
+- 🔢 **Octal notation display** (e.g., 644, 755) for quick reference
+- 👥 **Owner and group information** with user:group format
+- 📍 **Full file path** and target information
+- 🎨 **ASCII art header** and color-coded output using ANSI escape codes
+- ✅ **Visual check marks** showing granted/denied permissions at a glance
+
+Built on **Fedora** with Git version control, this project showcases clean code practices and advanced shell scripting techniques including `printf` formatting, conditional logic, and file system queries. It's open source and ready for contributions!
+
+> 🌟 **Open for contributions!** Check out the repo and feel free to submit issues or pull requests.
+
+---
+
+## 🗂️ Other Projects
+
+### 🎓 [SnapStudy](https://www.snapstudy.online)
+An innovative EdTech platform I developed to revolutionize student studying with features like audio transcription, automatic quiz generation, smart flashcards, and AI-powered summaries.
+
+> ⏸️ *Currently on pause* - The project taught me valuable lessons in full-stack development and is awaiting future updates.
 
 ---
 
@@ -50,7 +68,7 @@ An innovative platform designed to **revolutionize the way students study**. Sna
 [![Web Development](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,supabase,vercel)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,supabase,vercel,linux)](https://skillicons.dev)
 
 ---
 
@@ -76,8 +94,8 @@ An innovative platform designed to **revolutionize the way students study**. Sna
 
 ## 🎯 Current Goals
 
-- 🔧 Fix **SnapStudy** bugs and release new features
-- 📚 Deepen my knowledge in **full-stack web development**
+- 🔧 Enhance **FileInspector** with new features and expand its capabilities
+- 📚 Deepen my knowledge in **systems programming** and **full-stack web development**
 - 🌱 Explore new technologies and modern frameworks everyday!
 - 🚀 Develop open-source projects that can help the community
 
