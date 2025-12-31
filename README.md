@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mattia-bandini-19784017b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mattia.bandini.1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:info@mattiabandini.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://x.com/mattiabandinii_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.mbinnovations.online"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website"/></a>
+  <a href="https://www.mattiabandini.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website"/></a>
 </p>
 
 
@@ -101,9 +101,11 @@ An innovative EdTech platform I developed to revolutionize student studying with
 
 ---
 
-## 🏢 MB Innovations
+## 🏢 My portfolio
 
-Under the **[MB Innovations](https://www.mbinnovations.online)** brand, I develop digital projects with a focus on innovation and user experience. If you have an idea or want to collaborate, contact me!
+I develop digital projects with a focus on innovation and user experience. If you have an idea or want to collaborate, contact me!
+Check my portfolio here: 
+<a href="https://www.mattiabandini.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website"/></a>
 
 ---
 
@@ -119,7 +121,7 @@ I'm always open to new opportunities, collaborations, or simply having a chat ab
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mattia-bandini-19784017b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mattia.bandini.1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:info@mattiabandini.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://x.com/mattiabandinii_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <img src="https://komarev.com/ghpvc/?username=mattiabandini1&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
