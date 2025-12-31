@@ -105,7 +105,7 @@ An innovative EdTech platform I developed to revolutionize student studying with
 
 I develop digital projects with a focus on innovation and user experience. If you have an idea or want to collaborate, contact me!
 Check my portfolio here: 
-<a href="https://www.mattiabandini.com">
+<a href="https://www.mattiabandini.com"></a>
 
 ---
 
