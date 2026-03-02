@@ -62,13 +62,13 @@ An innovative EdTech platform I developed to revolutionize student studying with
 ## 🛠️ Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,c,java,python,bash,SQL)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,c,java,python,bash,mysql,rust)](https://skillicons.dev)
 
 ### Web Development
 [![Web Development](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,supabase,vercel,linux)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,supabase,vercel,neovim,linux)](https://skillicons.dev)
 
 ---
 
