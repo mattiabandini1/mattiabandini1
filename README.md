@@ -11,7 +11,6 @@
   <a href="https://www.mattiabandini.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website"/></a>
 </p>
 
-
 ---
 
 ## 🚀 About Me
@@ -22,40 +21,49 @@ I'm a **second-year** student of **Computer Engineering & Science** at **Alma Ma
 const mattia = {
     location: "Lugo, Emilia Romagna 🇮🇹",
     education: "Computer Engineering & Science @ UniBo",
-    currentFocus: ["Full-Stack Development", "Problem Solving", "EdTech"],
+    currentFocus: ["Systems Programming", "Developer Tooling", "EdTech"],
 };
 ```
 
 ---
 
-## 💼 Featured Project
+## 💼 Featured Projects
 
-### 🔍 [FileInspector](https://github.com/mattiabandini1/FileInspector)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+### 🧪 [J-Pairwise](https://github.com/mattiabandini1/J-Pairwise)
+![Java](https://img.shields.io/badge/Java_21-orange?style=for-the-badge&logo=java&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-A powerful **Bash scripting tool** designed to simplify Linux file permissions analysis. Born as an exercise for my Operating Systems exam to master advanced Bash scripting, FileInspector evolved into a practical utility that provides:
+A **metaprogramming tool** that implements the **IPOG (In-Parameter-Order-General)** algorithm for combinatorial pairwise testing. Given a JSON configuration with parameters and their values, it generates a minimized set of test cases — cutting hundreds of manual combinations down to a handful — and outputs a ready-to-compile **JUnit 5 parameterized test class**.
 
-- 📋 **Interactive permission table** with Read/Write/Execute status checks
-- 🔢 **Octal notation display** (e.g., 644, 755) for quick reference
-- 👥 **Owner and group information** with user:group format
-- 📍 **Full file path** and target information
-- 🎨 **ASCII art header** and color-coded output using ANSI escape codes
-- ✅ **Visual check marks** showing granted/denied permissions at a glance
+Built with Java 21 features (Records, Text Blocks, Pattern Matching), Gradle Kotlin DSL, and Jackson for JSON processing.
 
-Built on **Fedora** with Git version control, this project showcases clean code practices and advanced shell scripting techniques including `printf` formatting, conditional logic, and file system queries. It's open source and ready for contributions!
+---
 
-> 🌟 **Open for contributions!** Check out the repo and feel free to submit issues or pull requests.
+### 🦀 [RustyKV](https://github.com/mattiabandini1/RustyKV)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+An **LSM-Tree inspired key-value store** built from scratch in Rust — the same architecture behind RocksDB and Apache Cassandra. Features an interactive REPL, in-memory MemTable with `O(1)` reads/writes, append-only SSTable persistence, and cascading reads with graceful shutdown. My first Rust project, built while learning the language independently.
+
+---
+
+### 🔧 [Rusty-DNF](https://github.com/mattiabandini1/Rusty-DNF) *(In Development)*
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+A **fast CLI wrapper for Fedora's DNF package manager**, written in Rust. Born out of real frustration with DNF's metadata sync times and verbose output, Rusty-DNF aims to deliver a visually modern, async terminal experience for everyday package management — search, install, update — with the responsiveness you'd expect from native tooling.
 
 ---
 
 ## 🗂️ Other Projects
 
-### 🎓 [SnapStudy](https://www.snapstudy.online)
-An innovative EdTech platform I developed to revolutionize student studying with features like audio transcription, automatic quiz generation, smart flashcards, and AI-powered summaries.
+### 🔍 [FileInspector](https://github.com/mattiabandini1/FileInspector)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-> ⏸️ *Currently on pause* - The project taught me valuable lessons in full-stack development and is awaiting future updates.
+A lightweight CLI tool for Linux file permission analysis. Born as an OS exam exercise, it displays permissions, octal notation, owner/group info, and color-coded output via ANSI escape codes. Open source and accepting contributions.
+
+### 🎓 [SnapStudy](https://www.snapstudy.online)
+An EdTech platform with audio transcription, automatic quiz generation, smart flashcards, and AI-powered summaries. Currently on pause, but a valuable full-stack learning experience.
 
 ---
 
@@ -94,16 +102,16 @@ An innovative EdTech platform I developed to revolutionize student studying with
 
 ## 🎯 Current Goals
 
-- 🔧 Enhance **FileInspector** with new features and expand its capabilities
-- 📚 Deepen my knowledge in **systems programming** and **full-stack web development**
-- 🌱 Explore new technologies and modern frameworks everyday!
-- 🚀 Develop open-source projects that can help the community
+- 🔧 Ship **Rusty-DNF** and get it into the hands of real Fedora users
+- 📚 Deepen my knowledge in **systems programming** and **Rust**
+- 🌱 Explore async Rust and modern terminal UI libraries (Ratatui, Tokio)
+- 🚀 Keep building open-source tools that solve problems I actually have
 
 ---
 
-## 🏢 My portfolio
+## 🏢 My Portfolio
 
-I develop digital projects with a focus on innovation and user experience. If you have an idea or want to collaborate, contact me!
+I develop digital projects with a focus on innovation and user experience. If you have an idea or want to collaborate, contact me!  
 Check my portfolio here: [mattiabandini.com](https://mattiabandini.com)
 
 ---
@@ -111,10 +119,6 @@ Check my portfolio here: [mattiabandini.com](https://mattiabandini.com)
 ## 📫 Let's Connect!
 
 I'm always open to new opportunities, collaborations, or simply having a chat about technology!
-
-<p align="center">
-  
-</p>
 
 ---
 
@@ -126,9 +130,9 @@ I'm always open to new opportunities, collaborations, or simply having a chat ab
 </p>
 
 <p align="center">
-  <em>"The best way to predict the future is to invent it." - Alan Kay</em>
+  <em>"The best way to predict the future is to invent it." – Alan Kay</em>
 </p>
 
 ---
 
-<p align="center">⭐️ Made with passion by Mattia Bandini | © 2025 Mattia Bandini</p>
+<p align="center">⭐️ Made with passion by Mattia Bandini | © 2026 Mattia Bandini</p>
