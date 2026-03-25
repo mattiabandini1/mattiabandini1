@@ -16,7 +16,6 @@
 ## 🚀 About Me
 
 I'm a **second-year** student of **Computer Engineering & Science** at **Alma Mater Studiorum - University of Bologna**, passionate about technology and innovation. I'm from Lugo, in Emilia Romagna, and I love turning ideas into concrete digital solutions.
-
 ```javascript
 const mattia = {
     location: "Lugo, Emilia Romagna 🇮🇹",
@@ -47,11 +46,12 @@ An **LSM-Tree inspired key-value store** built from scratch in Rust — the same
 
 ---
 
-### 🔧 [Rusty-DNF](https://github.com/mattiabandini1/Rusty-DNF) *(In Development)*
+### 🔐 [selinux-explain](https://github.com/mattiabandini1/selinux-explain) *(In Development)*
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![SELinux](https://img.shields.io/badge/SELinux-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
 
-A **fast CLI wrapper for Fedora's DNF package manager**, written in Rust. Born out of real frustration with DNF's metadata sync times and verbose output, Rusty-DNF aims to deliver a visually modern, async terminal experience for everyday package management — search, install, update — with the responsiveness you'd expect from native tooling.
+A **CLI tool that translates SELinux AVC denials into human-readable explanations**, written in Rust. Born out of real frustration with cryptic audit logs that push users toward `setenforce 0`, selinux-explain reads from `/var/log/audit/audit.log` or stdin, parses AVC denial entries, and outputs a clear explanation of what happened, why SELinux blocked it, and how to fix it — without compromising system security. Useful on any SELinux-enabled distro: Fedora, RHEL, Rocky Linux, AlmaLinux.
 
 ---
 
@@ -102,9 +102,9 @@ An EdTech platform with audio transcription, automatic quiz generation, smart fl
 
 ## 🎯 Current Goals
 
-- 🔧 Ship **Rusty-DNF** and get it into the hands of real Fedora users
+- 🔐 Ship **selinux-explain** and make SELinux less intimidating for the Fedora and RHEL community
 - 📚 Deepen my knowledge in **systems programming** and **Rust**
-- 🌱 Explore async Rust and modern terminal UI libraries (Ratatui, Tokio)
+- 🌱 Explore Linux security internals, audit log parsing, and SELinux policy mechanics
 - 🚀 Keep building open-source tools that solve problems I actually have
 
 ---
