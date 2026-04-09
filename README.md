@@ -28,6 +28,15 @@ const mattia = {
 
 ## 💼 Featured Projects
 
+### 🔐 [selinux-explain](https://github.com/mattiabandini1/selinux-explain) *(In Development)*
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![SELinux](https://img.shields.io/badge/SELinux-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+A **CLI tool that translates SELinux AVC denials into human-readable explanations**, written in Rust. Born out of real frustration with cryptic audit logs that push users toward `setenforce 0`, selinux-explain reads from `/var/log/audit/audit.log` or stdin, parses AVC denial entries, and outputs a clear explanation of what happened, why SELinux blocked it, and how to fix it — without compromising system security. Useful on any SELinux-enabled distro: Fedora, RHEL, Rocky Linux, AlmaLinux.
+
+---
+
 ### 🧪 [J-Pairwise](https://github.com/mattiabandini1/J-Pairwise)
 ![Java](https://img.shields.io/badge/Java_21-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -43,15 +52,6 @@ Built with Java 21 features (Records, Text Blocks, Pattern Matching), Gradle Kot
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 An **LSM-Tree inspired key-value store** built from scratch in Rust — the same architecture behind RocksDB and Apache Cassandra. Features an interactive REPL, in-memory MemTable with `O(1)` reads/writes, append-only SSTable persistence, and cascading reads with graceful shutdown. My first Rust project, built while learning the language independently.
-
----
-
-### 🔐 [selinux-explain](https://github.com/mattiabandini1/selinux-explain) *(In Development)*
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![SELinux](https://img.shields.io/badge/SELinux-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
-
-A **CLI tool that translates SELinux AVC denials into human-readable explanations**, written in Rust. Born out of real frustration with cryptic audit logs that push users toward `setenforce 0`, selinux-explain reads from `/var/log/audit/audit.log` or stdin, parses AVC denial entries, and outputs a clear explanation of what happened, why SELinux blocked it, and how to fix it — without compromising system security. Useful on any SELinux-enabled distro: Fedora, RHEL, Rocky Linux, AlmaLinux.
 
 ---
 
